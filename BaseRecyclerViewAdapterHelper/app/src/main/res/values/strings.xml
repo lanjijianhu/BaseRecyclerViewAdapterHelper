@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseRecyclerViewAdapterHelper</string>
+    <string name="delebnt">删除</string>
+</resources>
